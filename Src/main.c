@@ -1,3 +1,17 @@
+//*******************************************************************
+//        Name:		Rylan Anderson
+//
+//	  Date:		6/5/2022
+//
+//	  Description: Simple Driver for using the UART communication
+//			protocol on STM32F4. UART GPIO pin initialized,
+//			baudrate is configured, and a basic write
+//			function can be used for debugging.
+//
+//*******************************************************************
+
+
+
 // NOTE: Install RealTerm to see data being transfered
 
 #include "stm32f4xx.h"
