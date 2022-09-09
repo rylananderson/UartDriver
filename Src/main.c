@@ -21,8 +21,8 @@
 
 #define GPIOAEN						(1U<<0)
 #define UART2EN						(1U<<17)
-#define CR1_TE						(1U<<3);
-#define CR1_UE						(1U<<13);
+#define CR1_TE						(1U<<3)
+#define CR1_UE						(1U<<13)
 
 #define SR_TXE						(1U<<7)
 
